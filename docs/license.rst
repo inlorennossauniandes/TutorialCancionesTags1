@@ -1,7 +1,7 @@
 .. _license:
 
 =======
-License
+License 5.0
 =======
 
 .. include:: ../LICENSE.txt
